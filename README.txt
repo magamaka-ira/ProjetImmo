@@ -41,7 +41,7 @@ Ces fichiers contiennent un exemple de structure. Ils seront remplaces avec les 
 
 STRUCTURE FINALE (apres execution complete) :
 
-MAJ/
+PROJETIMMO/
   Donnees/
     49_2024.csv
     49_2025.csv
